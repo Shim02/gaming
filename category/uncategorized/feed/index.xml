@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; website</title>
-	<atom:link href="https://https://shim02.github.io/gaming/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://shim02.github.io/gaming</link>
+	<atom:link href="https://shim02.github.io/gaming/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shim02.github.io/gaming</link>
 	<description></description>
 	<lastBuildDate>Tue, 28 Mar 2023 15:58:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Playstation</title>
-		<link>https://https://shim02.github.io/gaming/playstation/</link>
-					<comments>https://https://shim02.github.io/gaming/playstation/#respond</comments>
+		<link>https://shim02.github.io/gaming/playstation/</link>
+					<comments>https://shim02.github.io/gaming/playstation/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 13 Feb 2023 20:01:24 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://shim02.github.io/gaming/?p=2277</guid>
+		<guid isPermaLink="false">https://shim02.github.io/gaming/?p=2277</guid>
 
 					<description><![CDATA[This is my third post.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2277" class="elementor elementor-2277">
@@ -47,40 +47,40 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://https://shim02.github.io/gaming/playstation/feed/</wfw:commentRss>
+					<wfw:commentRss>https://shim02.github.io/gaming/playstation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Video Games</title>
-		<link>https://https://shim02.github.io/gaming/video-games/</link>
-					<comments>https://https://shim02.github.io/gaming/video-games/#respond</comments>
+		<link>https://shim02.github.io/gaming/video-games/</link>
+					<comments>https://shim02.github.io/gaming/video-games/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 13 Feb 2023 19:57:59 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://shim02.github.io/gaming/?p=2274</guid>
+		<guid isPermaLink="false">https://shim02.github.io/gaming/?p=2274</guid>
 
 					<description><![CDATA[This is my second post.]]></description>
 										<content:encoded><![CDATA[
 <p>This is my second post.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://shim02.github.io/gaming/video-games/feed/</wfw:commentRss>
+					<wfw:commentRss>https://shim02.github.io/gaming/video-games/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Super Mario Bros.</title>
-		<link>https://https://shim02.github.io/gaming/super-mario-bros/</link>
-					<comments>https://https://shim02.github.io/gaming/super-mario-bros/#respond</comments>
+		<link>https://shim02.github.io/gaming/super-mario-bros/</link>
+					<comments>https://shim02.github.io/gaming/super-mario-bros/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 13 Feb 2023 19:51:27 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://shim02.github.io/gaming/?p=2272</guid>
+		<guid isPermaLink="false">https://shim02.github.io/gaming/?p=2272</guid>
 
 					<description><![CDATA[This is my post.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2272" class="elementor elementor-2272">
@@ -99,7 +99,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://https://shim02.github.io/gaming/super-mario-bros/feed/</wfw:commentRss>
+					<wfw:commentRss>https://shim02.github.io/gaming/super-mario-bros/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
